@@ -1,6 +1,6 @@
 ---
 description: >-
-  Telenomics of the protocol and allocation distribution of the tokens for BSC &
+  Tokenomics of the protocol and allocation distribution of the tokens for BSC &
   ETH chain contracts!
 ---
 
