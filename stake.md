@@ -46,9 +46,7 @@ PARTNER 6: TBA
 
 A pool is a simpler farm. Instead of putting tokens together in an LP, you can just stake single tokens! We offer this for the following tokens:&#x20;
 
-AUTO UNVT - Stake and earn $UNVT&#x20;
-
-MANUAL UNVT - Stake and earn $UNVT&#x20;
+STAKE UNVT - Stake and earn $UNVT&#x20;
 
 STAKE USDT - Stake and earn $UNVT&#x20;
 
