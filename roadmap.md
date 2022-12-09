@@ -10,37 +10,36 @@ description: >-
 
 **August**
 
-* Team recruitment
-* Whitepaper
-* Socials set up
-* Private sale
+* Team recruitment ✅
+* Whitepaper ✅
+* Socials set up ✅
 
 **September**
 
-* Web development
-* Ecosystem DOCS
-* dApps UI design
-* Token Deployment on BSC
+* Web development ✅
+* Ecosystem DOCS ✅
+* dApps UI design ✅
 
 **October**
 
-* 2 Audits for the Token CA
-* Swap, Pools, Farms Live
-* BSC funding round
-* Token Deployment on ETH
+* 1 Audit for the Token CA ✅
+* Swap, Pools, Farms Live ✅
+* Token Deployment on ETH & BSC ✅
 
 **November**
 
-* ETH funding round
-* Moneymarket Live
+* Moneymarket Live ✅
 * Governance Live
-* CEX listing
 
 **December**
 
-* Cerik Audit for whole ecosystem
-* Bridge Live
+* 2nd Audit for the Token CA ✅
+* Community building
+* 3 CEX listing Announcments
+* Presale for BSC and ETH
+* CEX listing 1
 * CEX listing 2
+* AMA Planner release with key dates
 
 **January**
 
@@ -48,6 +47,8 @@ description: >-
 * Token Deployment on Cardano
 * KCC & Cardano funding round
 * NFT Lend/borrow market
+* Cerik Audit for whole ecosystem
+* CEX listing 3
 
 **February**
 
@@ -55,22 +56,24 @@ description: >-
 * Token Deployment on Solana
 * Fantom & Solana funding round
 * Onboarding Advisors
+* Decentralized TON money-market 
 
 **March**
 
 * Token Deployment on AVAX
 * AVAX funding round
-* Multi-chain bridge Live
+* Bridge Live
 
 **April**
 
 * Token Deployment on DOT
 * DOT funding round
-* CEX listing 3
+* CEX listing 4
 
 **May**
 
 * Start of Hackathons
 * Partnerships announcement
-* CEX Lising 4
+* CEX Lising 5
+* Multi-chain bridge Live
 * Roadmap for Q3 and Q4 2023
