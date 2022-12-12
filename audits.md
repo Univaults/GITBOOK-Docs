@@ -28,17 +28,23 @@ governance.univaults.io
 
 
 
-**AUDIT 1 (BlockSAFU)**
+**AUDIT 1 (Coinsult)**
 
-https://blocksafu.com/
+https://coinsult.net/
 
-TG: https://t.me/BlockSAFUofficial
+TG: https://t.me/coinsult_tg
 
-"BlockSAFU is a trusted and secure audit platform. BlockSAFU feature scans, controls, and monitor's project. Not only that, BlockSAFU has a bounty scam platform and saved dollars from scammers all over the world."
+"Coinsult has been hired by over 360+ blockchain startups and corporations to audit their smart contracts."
 
 Audit link:
 
-Date/Time of Audit:
+https://coinsult.net/projects/univaults/
+
+https://twitter.com/CoinsultAudits/status/1587182651517140993
+
+https://github.com/Coinsult/solidity/blob/main/Coinsult_Univaults_0xbb...2945_Audit.pdf
+
+Date/Time of Audit: 31st October 05:06 AM UTC
 
 
 
@@ -54,7 +60,11 @@ TG: https://t.me/techrate\_audits
 
 Audit link:
 
-Date/Time of Audit:
+Audit report ☑️: https://github.com/TechRate/Smart-Contract-Audits/blob/main/December_2022/Univaults.pdf  
+
+Techrate's GitHub 📁: https://github.com/TechRate/Smart-Contract-Audits
+
+Date/Time of Audit: December 11th 2022
 
 
 
