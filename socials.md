@@ -22,7 +22,7 @@ On our Twitter you will find everything from, recent updates and implementations
 
 The Telegram account is our main point of contact with our community, here you will be greeted by expert moderators in the main chat and participate in AMAs where you can ask questions and get well and truly involved in our ecosystem.
 
-📹 https://www.youtube.com/channel/UCfjz-JyKXAyduvQXR\_-1h2w
+📹 [https://www.youtube.com/channel/UCfjz-JyKXAyduvQXR\_-1h2w](https://www.youtube.com/channel/UCpkH7QK3pSjmTz8gh9720eA)
 
 Videos and explanations of our ecosystem and how to use the various dApps that are available for use on our platform.
 
