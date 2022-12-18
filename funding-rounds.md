@@ -12,8 +12,6 @@ description: >-
 
 <figure><img src=".gitbook/assets/logo_BNB_Chain (1).svg" alt=""><figcaption></figcaption></figure>
 
-Private seed funding round                   Univaults                 21/09/2022 4PM UTC                   TBA
-
 Presale round Pinksale                          TBA                          21/09/2022 4PM UTC                   TBA
 
 CEX Initial exchange offering                TBA                         TBA                                                 TBA
@@ -21,8 +19,6 @@ CEX Initial exchange offering                TBA                         TBA    
 
 
 <figure><img src=".gitbook/assets/ethereum (1).png" alt=""><figcaption></figcaption></figure>
-
-Private seed funding round                  Univaults                 23/09/2022 5PM UTC                    TBA
 
 Presale round                                        TBA                         TBA                                                   TBA
 
