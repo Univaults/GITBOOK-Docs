@@ -10,7 +10,7 @@ description: Native contracts
 
 
 
-BINANCE SMART CHAIN                                       TBA
+BINANCE SMART CHAIN                                       0xE03bc8DadcE77F41150004a8AA15AB6b8bDC3c1f
 
 ETHEREUM                                                             TBA
 
