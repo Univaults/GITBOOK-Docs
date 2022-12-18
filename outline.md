@@ -8,7 +8,7 @@ description: >-
 
 &#x20;                           **What is Univaults? $UNVT (A beginner's guide)**
 
-<figure><img src=".gitbook/assets/LOGO 4 REMOVED BACKGROUND.png" alt=""><figcaption><p>www.univaults.io</p></figcaption></figure>
+<figure><img src=".gitbook/assets/LOGO 4 REMOVED BACKGROUND.png" alt=""><figcaption><p>www.univaults.com</p></figcaption></figure>
 
 One of a number of new and emerging DeFi cryptocurrencies, Univaults is a decentralized lending system that allows users to lend, borrow and earn interest on crypto assets, all without middlemen.
 
